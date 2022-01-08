@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Examples from the repo</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>LWC Utils</label>
+    <navType>Standard</navType>
+    <tabs>Sample_App_Aura</tabs>
+    <tabs>Sample_App_LWC</tabs>
+    <tabs>SOQL_Datatable</tabs>
+    <tabs>Aggregate_SOQL_Datatable</tabs>
+    <tabs>Collection_Datatable</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>LWC_Utils_UtilityBar</utilityBar>
+</CustomApplication>
